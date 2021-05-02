@@ -1,0 +1,9 @@
+{
+  "extensionName": {
+    "message": "newTabPosition"
+  },
+
+  "extensionDescription": {
+    "message": "Make your browser open new blank tabs next to the current tab."
+  }
+}
